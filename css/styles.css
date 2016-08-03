@@ -1,5 +1,6 @@
 .intro{
   display: block;
+  margin: auto;
   text-align: center;
   font-style: oblique;
   color: white;
@@ -7,4 +8,10 @@
 
 body{
   background-color: black;
+  color: red;
+}
+
+.boring{
+  font-style: italic;
+  color: purple;
 }
